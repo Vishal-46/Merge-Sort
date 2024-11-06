@@ -1,2 +1,2 @@
-# Merge-Sort
-Merge sort algorithm visualization
+# Selection Sort
+Selection sort algorithm visualization
