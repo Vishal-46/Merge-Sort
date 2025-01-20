@@ -4,7 +4,6 @@ let w = 40; // Width of bars
 let h = 400; // Height of canvas
 let i = 0, j = 0;
 let sorting = false;
-
 function setup() {
     createCanvas(400, 400);
     bars = data.slice(); // Copy the data to bars
